@@ -1,2 +1,2 @@
 all:
-	g++ 1_1.cpp -o output
+	g++ 1_2.cpp -o output
